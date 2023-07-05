@@ -1,5 +1,5 @@
-#!/bin/sh
-set -e
+
+
 function mvlink() {
     original="$1" target="$2"
 
